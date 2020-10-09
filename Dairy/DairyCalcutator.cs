@@ -2,8 +2,8 @@
 
 namespace Dairy
 {
-    class Program
-    {    
+    class DairyCalculator
+    {    static char choice;
         static void Main(string[] args)
         {
             Console.WriteLine("WELCOME TO OUR DAIRY CALCULATOR!");
@@ -11,6 +11,14 @@ namespace Dairy
             
             // There is no need to create an object to call a static method.
             calculateDairyProfit();
+            Console.WriteLine("\nDo you want to calculate again? \nPress y to continue and any other key to exit.");
+
+            choice= Console.ReadLine()[0];
+            if(choice=='y' || choice=='Y'){
+                calculateDairyProfit();
+            }
+
+
         }
 
         static void calculateDairyProfit(){
