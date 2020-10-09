@@ -1,0 +1,13 @@
+/home/user001/Documents/c#/csharp/Dairy/bin/Debug/netcoreapp3.1/Dairy
+/home/user001/Documents/c#/csharp/Dairy/bin/Debug/netcoreapp3.1/Dairy.deps.json
+/home/user001/Documents/c#/csharp/Dairy/bin/Debug/netcoreapp3.1/Dairy.runtimeconfig.json
+/home/user001/Documents/c#/csharp/Dairy/bin/Debug/netcoreapp3.1/Dairy.runtimeconfig.dev.json
+/home/user001/Documents/c#/csharp/Dairy/bin/Debug/netcoreapp3.1/Dairy.dll
+/home/user001/Documents/c#/csharp/Dairy/bin/Debug/netcoreapp3.1/Dairy.pdb
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.csprojAssemblyReference.cache
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.AssemblyInfoInputs.cache
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.AssemblyInfo.cs
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.csproj.CoreCompileInputs.cache
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.dll
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.pdb
+/home/user001/Documents/c#/csharp/Dairy/obj/Debug/netcoreapp3.1/Dairy.genruntimeconfig.cache
